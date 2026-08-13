@@ -12,7 +12,7 @@ Most of what I work on is private, so the links below go to writeups on [clykr.i
 
 **A birthday site for my son** - A password gated party site built as a space mission: launch codes at the door, an RSVP manifest, and a solar system in Three.js you fall through as you scroll, rendered with a dithered pixel look. ([writeup](https://clykr.io/work/launch))
 
-[![The launch code screen: a dithered pixel art Earth rising over the moon, with a rocket on the surface](https://clykr.io/media/launch-gate.gif)](https://clykr.io/work/launch)
+[![The launch code screen: a dithered pixel art Earth over the moon, a rocket on the surface, and the launch code filling in](https://clykr.io/media/launch-gate.gif)](https://clykr.io/work/launch)
 
 **ctx** - Keeps track of what every coding agent is doing across a pile of git worktrees. It reads transcripts and git instead of asking you to maintain any state of your own, distills each worktree to a line, and serves the same data three ways: a board, a TUI, and an MCP server agents can query. No daemon, no API key required. ([writeup](https://clykr.io/work/ctx))
 

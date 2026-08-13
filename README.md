@@ -16,11 +16,11 @@ A password gated party site built as a space mission: launch codes at the door, 
 
 [![Entering the launch code, the rocket lifting off, and the RSVP dashboard waiting behind the gate](https://clykr.io/media/launch-gate.gif)](https://clykr.io/work/launch)
 
-### ctx
+### [ctx](https://github.com/crod951/ctx)
 
 Keeps track of what every coding agent is doing across a pile of git worktrees. It reads transcripts and git instead of asking you to maintain any state of your own, distills each worktree to a line, and serves the same data three ways: a board, a TUI, and an MCP server agents can query. No daemon, no API key required. ([writeup](https://clykr.io/work/ctx))
 
-[![The ctx TUI: a board of worktrees with branch, session status, last activity and a one line task, and below it the expanded recap for the selected worktree](https://clykr.io/media/ctx.jpg)](https://clykr.io/work/ctx)
+[![The ctx TUI: a board of worktrees with branch, session status, last activity and a one line task, and below it the expanded recap for the selected worktree](https://clykr.io/media/ctx.jpg)](https://github.com/crod951/ctx)
 
 ### Overlap
 

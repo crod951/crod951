@@ -1,6 +1,6 @@
 # Hi, I'm Chris
 
-Full Stack Software Engineer, based in Irvine, California. Twelve years in.
+Full Stack Software Engineer, based in Irvine, California.
 
 ## What I'm building
 

@@ -16,11 +16,11 @@ A password gated party site built as a space mission: launch codes at the door, 
 
 [![Entering the launch code, the rocket lifting off, and the RSVP dashboard waiting behind the gate](https://clykr.io/media/launch-gate.gif)](https://clykr.io/work/launch)
 
-### [ctx](https://github.com/crod951/ctx)
+### [ctx](https://github.com/crodris/ctx)
 
 Keeps track of what every coding agent is doing across a pile of git worktrees. It reads transcripts and git instead of asking you to maintain any state of your own, distills each worktree to a line, and serves the same data three ways: a board, a TUI, and an MCP server agents can query. No daemon, no API key required. ([writeup](https://clykr.io/work/ctx))
 
-[![The ctx TUI: a board of worktrees with branch, session status, last activity and a one line task, and below it the expanded recap for the selected worktree](https://clykr.io/media/ctx.jpg)](https://github.com/crod951/ctx)
+[![The ctx TUI: a board of worktrees with branch, session status, last activity and a one line task, and below it the expanded recap for the selected worktree](https://clykr.io/media/ctx.jpg)](https://github.com/crodris/ctx)
 
 ### Overlap
 
@@ -36,5 +36,5 @@ Where all of the above are written up. TanStack Start on Vercel.
 
 ## Smaller public things
 
-- **[skills](https://github.com/crod951/skills)** - Claude Code skills and plugins I've built for my own workflow
-- **[bmi-calc](https://github.com/crod951/bmi-calc)** - A BMI calculator I made for my wife to use at work
+- **[skills](https://github.com/crodris/skills)** - Claude Code skills and plugins I've built for my own workflow
+- **[bmi-calc](https://github.com/crodris/bmi-calc)** - A BMI calculator I made for my wife to use at work
